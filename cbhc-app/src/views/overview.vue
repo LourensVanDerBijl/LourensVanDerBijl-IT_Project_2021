@@ -1,8 +1,8 @@
 <template>
-  <div class="HomeView">
+  <div class="OverviewView">
       <navigation/>
       <br><br><br><br>
-      <h2>This is the Home Page</h2>
+      <h2>This is the Overview Page</h2>
   </div>
 </template>
 

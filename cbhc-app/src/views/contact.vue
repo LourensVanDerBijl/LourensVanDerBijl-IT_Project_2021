@@ -1,8 +1,8 @@
 <template>
-  <div class="HomeView">
+  <div class="contactView">
       <navigation/>
       <br><br><br><br>
-      <h2>This is the Home Page</h2>
+      <h2>This is the Contact Page</h2>
   </div>
 </template>
 
